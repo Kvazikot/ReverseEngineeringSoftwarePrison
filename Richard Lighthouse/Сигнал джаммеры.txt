@@ -1,0 +1,14 @@
+ 
+A signal generator might be used to jam these frequencies. By using a sweep signal that 
+ranges between 3600 MHz to 4000 MHz, it is possible to jam the tracking frequency and the 
+harm & messaging frequency. One piece of equipment that is an example is the Agilent 
+E8257D. The data sheet for this signal generator states that it has a maximum sweep rate of 
+400 MHz per millisecond.That means that the entire range between 3600 to 4000 MHz can 
+be swept 1000 times each second – which makes for very effective signal jamming. 
+ 
+Equipment is available that is less expensive than this model, and it is also possible to rent 
+the equipment. By jamming the tracking frequency, they won't be able to follow you and that 
+prevents the harm signal from ever reaching the target. I recommend saving the firmware for 
+the equipment in a separate file, because the government criminals will try to disable it. By 
+re-writing the firmware, it can undo the changes the criminals will try to make. Also save the 
+firmware on a read-only device. 
